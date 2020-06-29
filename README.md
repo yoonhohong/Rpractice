@@ -1,1 +1,3 @@
-# R practice scripts
+# Statistics with R
+
+
