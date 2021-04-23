@@ -1,10 +1,15 @@
-# Statistics with R
+# Visual Statistics with R
 
-sample size calculation 
+sample size calculation  
 - sampleSizeCal.R
 
-multiple imputation with mice package
-- mice.R
-- https://uvastatlab.github.io/2019/05/01/getting-started-with-multiple-imputation-in-r/
+multiple imputation  
+- mice.R 
+
+bar plot with error bars  
+- barplotwitherrorbar.R   
+
+
+
 
 
